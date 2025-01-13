@@ -1,0 +1,7 @@
+FROM docker.elastic.co/kibana/kibana:7.17.9
+
+# Configuración del contenedor de Kibana
+ENV ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+
+# Exponer el puerto 5601
+EXPOSE 5601

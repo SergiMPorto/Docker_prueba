@@ -1,0 +1,9 @@
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.17.9
+
+# Configuración del contenedor de Elasticsearch
+ENV discovery.type=single-node
+ENV bootstrap.memory_lock=true
+ENV xpack.security.enabled=false
+
+# Exponer el puerto 9200
+EXPOSE 9200
