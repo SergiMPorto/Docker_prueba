@@ -11,6 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1736848689,,"wq"
+:w
+|2,0,1736848676,,"w"
+:W
+|2,0,1736848670,,"W"
+:q
+|2,0,1736848663,,"q"
 :wq!
 |2,0,1736455842,,"wq!"
 :wq?
@@ -95,16 +103,59 @@
 |3,0,4,1,1,0,1736455698,"import time"
 
 # File marks:
-'0  1  0  ~/app.py
-|4,48,1,0,1736455842,"~/app.py"
+'0  35  7  ~/practica/app.py
+|4,48,35,7,1736848689,"~/practica/app.py"
+'1  26  0  ~/practica/docker-compose.yml
+|4,49,26,0,1736847326,"~/practica/docker-compose.yml"
+'2  1  0  ~/app.py
+|4,50,1,0,1736455842,"~/app.py"
 
 # Jumplist (newest first):
+-'  35  7  ~/practica/app.py
+|4,39,35,7,1736848689,"~/practica/app.py"
+-'  1  0  ~/practica/app.py
+|4,39,1,0,1736848624,"~/practica/app.py"
+-'  53  49  ~/practica/app.py
+|4,39,53,49,1736848611,"~/practica/app.py"
+-'  26  0  ~/practica/docker-compose.yml
+|4,39,26,0,1736847326,"~/practica/docker-compose.yml"
+-'  26  0  ~/practica/docker-compose.yml
+|4,39,26,0,1736847326,"~/practica/docker-compose.yml"
+-'  1  0  ~/practica/docker-compose.yml
+|4,39,1,0,1736847308,"~/practica/docker-compose.yml"
+-'  1  0  ~/practica/docker-compose.yml
+|4,39,1,0,1736847308,"~/practica/docker-compose.yml"
+-'  1  0  ~/app.py
+|4,39,1,0,1736455842,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1736455842,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1736455842,"~/app.py"
 -'  1  0  ~/app.py
 |4,39,1,0,1736455842,"~/app.py"
 -'  24  67  ~/app.py
 |4,39,24,67,1736455817,"~/app.py"
+-'  24  67  ~/app.py
+|4,39,24,67,1736455817,"~/app.py"
+-'  24  67  ~/app.py
+|4,39,24,67,1736455817,"~/app.py"
+-'  24  67  ~/app.py
+|4,39,24,67,1736455817,"~/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/practica/app.py
+	*	1736848676	0
+	"	35	7
+	.	1	0
+	+	1	0
+
+> ~/practica/docker-compose.yml
+	*	1736847314	0
+	"	26	0
+	^	26	0
+	.	25	10
+	+	25	10
 
 > ~/app.py
 	*	1736455825	0

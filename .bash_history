@@ -678,3 +678,222 @@ docker ps -a
 docker exec -it contador sh
 docker start contador
 docker exec -it contador sh
+ls
+git init
+git commit -m "primer commit"
+git config
+git config --global user.name sergi
+git config --global user.email sergyporto100@hotmail.com
+git config --list
+git commit -m "Primer commit"
+git add .
+git commit -m "Primer commit"
+git -M main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+echo "# Docker_prueba" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+echo "# Docker_prueba" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+echo "# Docker_prueba" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+echo "# Docker_prueba" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SergiMPorto/Docker_prueba.git
+git push -u origin main
+git branch
+git branch -M main
+git add .
+git commit -m "Commit inicial"
+git push -u origin main
+ls
+mkdir practica
+cd practica
+nano app.py
+nano requirements
+cd
+cat requirements.txt
+cd practica
+nano Dockerfile
+docker build -name python
+docker build -name python .
+docker build -t python .
+nano dockerfile
+nano Dockerfile
+ls
+rename Dockerfile Dockerfilec
+install rename
+rm Dockerfile
+docker rm Dokerfile
+docker rm Dokerfileç
+docker image rm Dockerfileç
+mv Dockerfileç Dockerfile
+ls
+docker build -t python .
+rm requeriments
+rm requirements
+nano requirements.txt
+docker build -t python .
+python -m venv venv
+.\venv\Scripts\activate
+pip install flask
+python -m venv venv
+.\venv\Scripts\activate
+python app.py
+python3 -m venv venv
+apt install python3.10-venv
+sudo su
+nano .env
+ls
+nano Dockerfile
+ls
+nano Dockerfile
+docker build -t app .
+nano Dockerfile
+docker build -t app .
+docker run -p 5000:5000 app
+nano -env
+ls
+nano .env
+vim docker-compose.yml
+docker-compose up
+nano .anv
+ls
+nano env
+nano .env
+nano app.py
+docker-compose build
+docker-compose up
+pip install Flask-SQLAlchemy
+docker-compose build
+docker-compose up
+pip list
+nano app.py
+vim app.py
+nano app.py
+ls
+nano docker-compose
+nano docker-compose.yml
+pip uninstall Flask-SQLAlchemy
+pip install Flask-SQLAlchemy
+docker-compose build
+docker-compose up
+nano .env
+nano app.py
+docker-compose build
+docker-compose up
+nano requirements.txt
+docker-compose build
+docker-compose up
+nano requirements.txt
+docker-compose build
+docker-compose up
+nano requirements.txt
+nano docker-compose.yml
+nano app.py
+docker-compose build
+nano docker-compose.yml
+docker-compose build
+docker-compose up
+docker-compose logs
+git init
+git push origin main https://github.com/SergiMPorto/practica_docker.git
+git add .
+git status
+git commit -m prueba1
+git push origin main https://github.com/SergiMPorto/practica_docker.git
+git push https://github.com/SergiMPorto/practica_docker.git
+git push origin main https://github.com/SergiMPorto/practica_docker.git
+git push https://github.com/SergiMPorto/practica_docker.git
+git branch main
+git push https://github.com/SergiMPorto/practica_docker.git
+git pull master
+git push origin main https://github.com/SergiMPorto/practica_docker.git
+git branch
+git branch main
+git checkout main
+git branch
+git push https://github.com/SergiMPorto/practica_docker.git
+git add .
+git commit -m "corrección"
+git pull
+git pull main
+git pull https://github.com/SergiMPorto/practica_docker.git
+git pull origin main https://github.com/SergiMPorto/practica_docker.git
+git pull main 
+git pull main https://github.com/SergiMPorto/practica_docker.git
+git config pull.rebase false
+git config pull.rebase true
+git pull origin main
+git branch -r
+git remote show origin
+git remote -v
+rm -rf .git
+git init
+git remote add origin https://github.com/SergiMPorto/practica_docker.git
+git remote -v
+git add .
+git commit -m "Primer commit"
+git branch -M main
+git push -u origin main
+git pull origin main --rebase
+git push -u origin main
+ls
+nano .gitignore
+git rm -r --cached venv
+git add .gitignore
+git commit -m "Excluir venv del control de versiones"
+git rebase --abort
+git fetch origin
+git merge origin/main
+git status
+git add .gitignore README.md
+git add .
+git commit --amend --no-edit
+git rebase --continue
+git status
+git push -u origin main --force
+docker ps
+docker ps -a
+ls
+cd practica
+ls
+docker ps
+docker ps -a
+more Dockerfile
+docker-compose log.
+docker-compose logs
+docker-compose logs app
+docker-compose logs app | jq
+sudo apt-get install jq
+docker-compose logs app | jq
+more docker-compose
+nano docker-compose.yalm
+ls
+nano docker-compose.ylm
+nano docker-compose.yml
+docker-compose build
+docker-compose logs app | jq
+docker-compose logs app | grep '{' | jq
+docker-compose logs app
+docker-compose logs app > logs.json
